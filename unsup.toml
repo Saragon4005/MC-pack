@@ -7,15 +7,21 @@ id = "default"
 name = "Basics"
 description = "Just JEI and Zoom and preformance mods."
 [[flavor_groups.client_side.choices]]
-id = "all"
+id = "client_all"
 name = "More Client side mods"
 description = "Installs Apple Skin, EMI, and a few other QOL mods."
 
+[flavor_groups.server_support]
+name = "Server Support"
+description = "Turn on support for client side mods."
+side = "client"
+choices = ["client_support_on", "client_support_off"]
+
 [metafile.appleskin]
-flavors = "all"
+flavors = ["client_all", "client_support_on"]
 [metafile.emi]
-flavors = "all"
+flavors = ["client_all", "client_support_on"]
 [metafile.jade]
-flavors = "all"
+flavors = ["client_all", "client_support_on"]
 [metafile.jade-addons-forge]
-flavors = "all"
+flavors = ["client_all", "client_support_on"]
