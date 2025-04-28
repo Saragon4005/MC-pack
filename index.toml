@@ -10,8 +10,18 @@ hash = "0991ab7847a2bcfca5f1d1a54c3b5042378cc6a8f3144a99092f17cd39ffa116"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/bocchud.pw.toml"
 hash = "ec28529aaad30a3cc92ee8026555c5b28089f34e07a41cea0f62b71df842e9fb"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
 metafile = true
 
 [[files]]
@@ -37,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
 metafile = true
 
 [[files]]

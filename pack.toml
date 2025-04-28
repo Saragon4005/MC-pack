@@ -1,11 +1,11 @@
 name = "GF Pack 2"
-version = "1.0.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5fce7404f07d76bae5b7ac3dee6e096c9a6eb535f9ac93063b47a541f7fa68de"
+hash = "ef3edb74b8139db60539e102e373a849980b70ea07925fb8a4f901d8e090598f"
 
 [versions]
 minecraft = "1.21.1"
