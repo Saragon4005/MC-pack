@@ -14,7 +14,7 @@ description = "Installs Apple Skin, EMI, and a few other QOL mods."
 [flavor_groups.server_support]
 name = "Server Support"
 description = "Turn on support for client side mods."
-side = "client"
+side = "server"
 choices = ["client_support_on", "client_support_off"]
 
 [metafile.appleskin]
