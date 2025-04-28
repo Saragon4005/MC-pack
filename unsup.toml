@@ -1,0 +1,21 @@
+[flavor_groups.client_side]
+name = "Client Mods"
+description = "Which client side mods you'd like to use."
+side = "client"
+[[flavor_groups.client_side.choices]]
+id = "default"
+name = "Basics"
+description = "Just JEI and Zoom and preformance mods."
+[[flavor_groups.client_side.choices]]
+id = "all"
+name = "More Client side mods"
+description = "Installs Apple Skin, EMI, and a few other QOL mods."
+
+[metafile.appleskin]
+flavors = "all"
+[metafile.emi]
+flavors = "all"
+[metafile.jade]
+flavors = "all"
+[metafile.jade-addons-forge]
+flavors = "all"

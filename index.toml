@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/bocchud.pw.toml"
-hash = "db5be04c0a334c8931034456e75f5d61c06cf106f3a3888e3d826b1dee01cc71"
+hash = "ec28529aaad30a3cc92ee8026555c5b28089f34e07a41cea0f62b71df842e9fb"
 metafile = true
 
 [[files]]
@@ -93,3 +93,7 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "fe81da2d82ae35ce0e9898274e86072372929f59635d6068de39173ff4423620"
