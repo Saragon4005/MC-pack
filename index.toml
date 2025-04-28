@@ -6,17 +6,22 @@ hash = "9babc783b6933e9b56a7a7285b7be600505eb9017a246bf22c63071456536633"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+hash = "0991ab7847a2bcfca5f1d1a54c3b5042378cc6a8f3144a99092f17cd39ffa116"
 metafile = true
 
 [[files]]
 file = "mods/bocchud.pw.toml"
-hash = "ec28529aaad30a3cc92ee8026555c5b28089f34e07a41cea0f62b71df842e9fb"
+hash = "db5be04c0a334c8931034456e75f5d61c06cf106f3a3888e3d826b1dee01cc71"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1e2db95b596dc6b01af99b03e018a3a8280639bf4e8dfc8ba0b19f471f58f8bf"
 metafile = true
 
 [[files]]
@@ -26,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+hash = "6f987f681c8662aa6c60c28bcd7dd4a307b593ebc4b15a44c16cbd0f1005e9c5"
 metafile = true
 
 [[files]]
@@ -51,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+hash = "4c562b438044bbd372670d11167891f8f0abd4d212949ba557edad44afa7431b"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
+hash = "1148f13e24f7f29b7391cd3cd6312d0d8b53b5ae0cc9c64fe46d4441ff98ff48"
 metafile = true
 
 [[files]]

@@ -11,3 +11,6 @@ hash = "eb74140df7509fdb3677587def46eb5c9b83bdfabd077093dc9355bc3d29fdb7de5cd4e9
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "jBPaSUDN"
+
+[option]
+optional = true
