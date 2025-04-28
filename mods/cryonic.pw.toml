@@ -1,0 +1,14 @@
+name = "cryonic"
+filename = "cryonicconfig-neoforge-1.0.0+mc1.21.4.jar"
+side = "both"
+
+
+[download]
+url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/Ti9cpWRD/cryonicconfig-neoforge-1.0.0%2Bmc1.21.4.jar"
+hash-format = "sha256"
+hash = "fb36ddbb03e5190d135862d4e1cd7a7f450c84fbb33de4829ffb455c44e81459"
+
+[update]
+[update.modrinth]
+mod-id = "oEhQIkOs"
+version = "Ti9cpWRD"

@@ -30,6 +30,11 @@ hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
+file = "mods/cryonic.pw.toml"
+hash = "1f259cd6347aca79670cd048c8cd295a064a30ddc5be7be495d438b02f59c92b"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1e2db95b596dc6b01af99b03e018a3a8280639bf4e8dfc8ba0b19f471f58f8bf"
 metafile = true
