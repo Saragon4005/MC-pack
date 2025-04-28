@@ -1,0 +1,12 @@
+name = "GF Pack 2"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fbece5f6b8169983bf1230aeb517f5a2a27e7b64c15c5dd59825a385aa23f676"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.167"
