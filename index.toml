@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "9babc783b6933e9b56a7a7285b7be600505eb9017a246bf22c63071456536633"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0991ab7847a2bcfca5f1d1a54c3b5042378cc6a8f3144a99092f17cd39ffa116"
 metafile = true
@@ -141,4 +137,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "51d297a3f763488005052fc91003abc3e4a5058dc77480a32a3990c444d566bd"
+hash = "1d9bb9291fa70eb5e943925412aee7b3b7382fe78846c28d3e2d4431f8ea8908"

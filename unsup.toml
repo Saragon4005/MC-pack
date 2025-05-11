@@ -15,13 +15,24 @@ description = "Installs Apple Skin, EMI, and a few other QOL mods."
 name = "Server Support"
 description = "Turn on support for client side mods."
 side = "server"
-choices = ["client_support_on", "client_support_off"]
+[[flavor_groups.server_support.choices]]
+id = "client_support_on"
+name = "Client Support On"
+description = "Adds mods which enhance the optional mods client side"
+[[flavor_groups.server_support.choices]]
+id = "client_support_off"
+name = "Client Support Off"
+description = "All optional client side mods have no server support"
+[[flavor_groups.server_support.choices]]
+id = "client_support_breaking"
+name = "Client Support On (Breaking)"
+description = "Adds mods to server side which make those mods requiered on the client.\nThis requires all clients enable client side mods"
 
 [metafile.appleskin]
-flavors = ["client_all", "client_support_on"]
+flavors = ["client_all", "client_support_breaking"]
 [metafile.emi]
 flavors = ["client_all", "client_support_on"]
 [metafile.jade]
-flavors = ["client_all", "client_support_on"]
+flavors = ["client_all", "client_support_breaking"]
 [metafile.jade-addons-forge]
-flavors = ["client_all", "client_support_on"]
+flavors = ["client_all", "client_support_breaking"]
