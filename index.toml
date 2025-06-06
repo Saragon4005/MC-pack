@@ -76,6 +76,11 @@ hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "0000f47bdfffab7f0a030230eb77014330fed2fb10e4b0ad3837ccf265622529"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
 metafile = true
