@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0991ab7847a2bcfca5f1d1a54c3b5042378cc6a8f3144a99092f17cd39ffa116"
+hash = "141164cac03c384acd3216512578e31f3407903202d1690a0e1e835127da30de"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "7decaf223cb308d65bf44a7118a2ceb5d26a1bc1be5085c2132fa3035a718cca"
+hash = "5860d3af9951a991d32aa64f31eea4ad7c5e3dde747bd731115cba97854fdc06"
 metafile = true
 
 [[files]]
@@ -37,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "a003f242af42201fc9ff0df93004424bca32955e3bb870a302ea585f83fcc657"
+hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "c98af4e7fe5cae8719bda03923e1c517dc52f1ea8b5d6e8d6e58c9d2478ff29c"
+hash = "70e420a2d0b40b40d660dbb71e77d738a3bcdc6475f59706a716c39c7cb85ef1"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1e2db95b596dc6b01af99b03e018a3a8280639bf4e8dfc8ba0b19f471f58f8bf"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "cd9c8153bf903c0f86cfa8e91d8fe3d715ce717ca21b02f2e09253910ca2fe0b"
+hash = "9709fcd0b100ec7848e853efc0c9f4452537c2de2665e09ad8e7fb94b8fe4b8e"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "15897cc71c88a49247f63648534cc827754b5ef9b5dd9ef732f3796032543aee"
+hash = "0809e0fc5c6cdbfbcab3147eafcf65a79f9a2037b8ff97714630f9c4a4f18f40"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "e1186ddc953e1446af3ba58cbb80ddd0d2315c1571ed5438f5c03953edf0b656"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "395b91e1cb40f0695e94e22594757f01f1cd7f5b1f0deb0dd9e4d268a61d5b6c"
+hash = "467cd54a5e027679b080688953d56652b07ef977fec49887c2d75a5663aaa8be"
 metafile = true
 
 [[files]]
